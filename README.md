@@ -1,2 +1,8 @@
 # Baloxavir
-Analysis of next-generation sequencing data from ferret nasal wash samples.
+Analysis of next-generation sequencing data from ferret nasal wash samples for the paper - Baloxavir treatment of ferrets infected with influenza A(H1N1)pdm09 virus reduces onward transmission.
+
+1. Sample sequences can be downloaded from https://www.ebi.ac.uk/ena -project number PRJEB33516. Download the sequences and put them in a new folder in your working directory.
+
+2. Initial sample preparation - see initial_nextgen.R
+
+3. Run Baloxavir_ngs_analysis.R to perform the analysis.
