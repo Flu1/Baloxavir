@@ -5,4 +5,4 @@ Analysis of next-generation sequencing data from ferret nasal wash samples for t
 
 2. Initial sample preparation - see initial_baloxavir_nextgen.R
 
-3. Run Baloxavir_ngs_analysis.R to perform the analysis. To do this you will need a folder with the samples in fasta format.  Then run Baloxavir_ngs_analysis(list.files(pattern=".fasta"))
+3. Run Baloxavir_ngs_analysis.R to perform the analysis. To do this you will need a folder containing only the samples in fasta format.  Then run Baloxavir_ngs_analysis(list.files(pattern=".fasta"))
